@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions for programming assignment #2
+## using cached data
 
 ## This function initiates an object of type matrix and its related 
 ## methods to get and set the matrix, as well as to get and set its inverse
